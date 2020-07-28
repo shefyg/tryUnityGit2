@@ -8,6 +8,7 @@ public class Ghost : MonoBehaviour
     void Start()
     {
         Debug.Log("Hi 10");
+        Debug.LogError("Blank Mask Is The Best");
     }
 
     // Update is called once per frame
