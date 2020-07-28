@@ -7,7 +7,7 @@ public class Ghost : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hi 3");
+        Debug.Log("Hi 10");
     }
 
     // Update is called once per frame
